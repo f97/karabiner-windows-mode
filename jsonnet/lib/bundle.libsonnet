@@ -20,8 +20,6 @@
     '^org\\.gnu\\.Emacs$',
     // JetBrains tools
     '^com\\.jetbrains',
-    // Microsoft VSCode
-    '^com\\.microsoft\\.VSCode$',
     // VSCodium - Open Source VSCode
     '^com\\.vscodium$',
     // Sublime Text
@@ -58,6 +56,8 @@
     '^com\\.mitchellh\\.ghostty$',
     // Termius
     "^com\\.termius-dmg\\.mac",
+    // Microsoft VSCode
+    '^com\\.microsoft\\.VSCode$',
   ],
 
   // bundle identifiers for web browser applications
