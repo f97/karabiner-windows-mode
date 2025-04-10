@@ -57,7 +57,7 @@
     // Termius
     "^com\\.termius-dmg\\.mac",
     // Microsoft VSCode
-    '^com\\.microsoft\\.VSCode$',
+    // '^com\\.microsoft\\.VSCode$',
   ],
 
   // bundle identifiers for web browser applications
