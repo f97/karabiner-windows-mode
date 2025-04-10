@@ -28,8 +28,6 @@
     '^net\\.kovidgoyal\\.kitty$',
     // Beyond Compare 4 & 5
     '^com\\.ScooterSoftware',
-    // Microsoft VSCode
-    '^com\\.microsoft\\.VSCode$',
   ],
 
   // bundle identifiers for remote desktop applications
@@ -58,6 +56,8 @@
     '^com\\.mitchellh\\.ghostty$',
     // Termius
     "^com\\.termius-dmg\\.mac",
+    // Microsoft VSCode
+    '^com\\.microsoft\\.VSCode$',
   ],
 
   // bundle identifiers for web browser applications
