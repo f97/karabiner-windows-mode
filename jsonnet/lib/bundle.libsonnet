@@ -56,6 +56,8 @@
     '^com\\.github\\.wez\\.wezterm$',
     // Ghostty
     '^com\\.mitchellh\\.ghostty$',
+    // Termius
+    "^com\\.termius-dmg\\.mac",
   ],
 
   // bundle identifiers for web browser applications
