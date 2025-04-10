@@ -17,7 +17,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -27,7 +26,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -75,7 +75,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -85,7 +84,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -133,7 +133,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -143,7 +142,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -193,7 +193,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -203,7 +202,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -252,7 +252,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -262,7 +261,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -310,7 +310,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -320,7 +319,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -365,7 +365,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -375,7 +374,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -425,7 +425,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -435,7 +434,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -484,7 +484,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -494,7 +493,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -542,7 +542,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -552,7 +551,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -597,7 +597,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -607,7 +606,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -655,7 +655,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -665,7 +664,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -715,7 +715,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -725,7 +724,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -773,7 +773,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -783,7 +782,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -833,7 +833,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -843,7 +842,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -891,7 +891,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -901,7 +900,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -949,7 +949,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -959,7 +958,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1007,7 +1007,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1017,7 +1016,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1067,7 +1067,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1077,7 +1076,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1125,7 +1125,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1135,7 +1134,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1183,7 +1183,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1193,7 +1192,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1241,7 +1241,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1251,7 +1250,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1299,7 +1299,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1309,7 +1308,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1357,7 +1357,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1367,7 +1366,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1415,7 +1415,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1425,7 +1424,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1473,7 +1473,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1483,7 +1482,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1531,7 +1531,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1541,7 +1540,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1589,7 +1589,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1599,7 +1598,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1647,7 +1647,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1657,7 +1656,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1705,7 +1705,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1715,7 +1714,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1763,7 +1763,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1773,7 +1772,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1821,7 +1821,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1831,7 +1830,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1879,7 +1879,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1889,7 +1888,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1937,7 +1937,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -1947,7 +1946,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1995,7 +1995,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -2005,7 +2004,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2053,7 +2053,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -2063,7 +2062,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2111,7 +2111,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -2121,7 +2120,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2167,7 +2167,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
                         "^com\\.alacritty$",
@@ -2177,7 +2176,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2708,7 +2708,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2758,7 +2757,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2808,7 +2806,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2858,7 +2855,6 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.ScooterSoftware",
-                        "^com\\.microsoft\\.VSCode$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2905,7 +2901,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "type": "frontmost_application_if"
                   }
@@ -2948,7 +2945,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^com\\.microsoft\\.VSCode$"
                      ],
                      "type": "frontmost_application_if"
                   }
