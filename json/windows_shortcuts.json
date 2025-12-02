@@ -28,7 +28,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -87,7 +88,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -146,7 +148,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -207,7 +210,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -267,7 +271,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -326,7 +331,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -382,7 +388,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -443,7 +450,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -503,7 +511,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -562,7 +571,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -618,7 +628,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -677,7 +688,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -738,7 +750,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -797,7 +810,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -858,7 +872,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -917,7 +932,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -976,7 +992,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1035,7 +1052,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1096,7 +1114,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1155,7 +1174,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1214,7 +1234,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1273,7 +1294,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1332,7 +1354,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1391,7 +1414,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1450,7 +1474,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1509,7 +1534,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1568,7 +1594,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1627,7 +1654,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1686,7 +1714,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1745,7 +1774,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1804,7 +1834,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1863,7 +1894,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1922,7 +1954,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1981,7 +2014,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2040,7 +2074,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2099,7 +2134,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2158,7 +2194,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2215,7 +2252,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2947,7 +2985,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "type": "frontmost_application_if"
                   }
@@ -2990,7 +3029,8 @@
                         "^com\\.apple\\.Terminal$",
                         "^com\\.github\\.wez\\.wezterm$",
                         "^com\\.mitchellh\\.ghostty$",
-                        "^com\\.termius-dmg\\.mac"
+                        "^com\\.termius-dmg\\.mac",
+                        "^dev\\.warp\\.Warp-Stable"
                      ],
                      "type": "frontmost_application_if"
                   }
