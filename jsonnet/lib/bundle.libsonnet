@@ -30,6 +30,8 @@
     '^com\\.ScooterSoftware',
     // Microsoft VSCode
     '^com\\.microsoft\\.VSCode$',
+    // Zed
+    '^dev\\.zed\\.Zed$',
   ],
 
   // bundle identifiers for remote desktop applications
