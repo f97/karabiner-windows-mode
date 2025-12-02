@@ -60,6 +60,9 @@
     '^com\\.mitchellh\\.ghostty$',
     // Termius
     "^com\\.termius-dmg\\.mac",
+    // Warp Stable
+    "^dev\\.warp\\.Warp-Stable",
+
   ],
 
   // bundle identifiers for web browser applications
